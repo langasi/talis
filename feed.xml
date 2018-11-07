@@ -3,7 +3,7 @@
     <title>Instrukcija</title>
     <link href="https://langasi.github.io/talis/feed.xml" rel="self" />
     <link href="https://langasi.github.io/talis" />
-    <updated>2018-11-07T22:10:16+02:00</updated>
+    <updated>2018-11-07T22:27:40+02:00</updated>
     <author>
         <name>e</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://langasi.github.io/talis/instrukcija/"/>
         <id>https://langasi.github.io/talis/instrukcija/</id>
 
-        <updated>2018-11-07T22:07:34+02:00</updated>
+        <updated>2018-11-07T22:27:33+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/talis/media/posts/1/2018-08-29-22-00-20-DSC_0137-copy-coply.jpg" alt="" />
@@ -28,7 +28,7 @@
             <![CDATA[
                     <img src="https://langasi.github.io/talis/media/posts/1/2018-08-29-22-00-20-DSC_0137-copy-coply.jpg" alt="" />
                 <ol>
-<li><a href="#dez">Dėžutės valymas</a></li>
+<li><a id="content"></a><a href="#dez">Dėžutės valymas</a></li>
 <li><a href="#glost">Glostymas</a></li>
 <li><a href="#maist">Maistelis ir vanduo</a></li>
 <li><a href="#pelyt">Pelytė ir skanėstas</a></li>
@@ -53,6 +53,7 @@
 </figure>
 </div>
 <h2><a id="glost"></a>Glostymas</h2>
+<address><a href="#content">grįžti viršun ↑</a></address>
 <p>Įėjus į namus Talis greičiausiai bėgiodamas ir kniaukdamas rodys, kad reikalauja dėmesio arba kad nori kakų. Tokiu atveju derėtų katinuką paglostyti ir/ar pašukuoti (šukas galima rasti koridoriaus knygų lentynoje).</p>
 <p>Kita vertus, jeigu kniauks vonioj prie čiaupo, tai reikš, kad nori gerti - derėtų atsukti šalto vandens čiaupą, kad atsigertų iš čiaupo.</p>
 <p>Jeigu lips ant rankų, vadinasi, nori apseilėti.</p>
@@ -69,6 +70,7 @@
 </figure>
 </div>
 <h2><a id="maist"></a>Maistelis ir vanduo</h2>
+<address><a href="#content">grįžti viršun ↑</a></address>
 <p>Idant deramai pamaitinti katinuką derėtų:</p>
 <ul>
 <li>Papildyti sauso maistelio išteklius. Sausą maistelį galima rasti virtuvės spintelės apačioje prie lango.</li>
@@ -91,6 +93,7 @@
 </figure>
 </div>
 <h2><a id="pelyt"></a>Pelytė ir skanėstas</h2>
+<address><a href="#content">grįžti viršun ↑</a></address>
 <p>Pasirūpinus dėžute ir maisteliu derėtų katinukui duoti skanėstą ir naują žaislinę pelytę. Per dieną neduoti daugiau nei vieno skanėsto.</p>
 <div class="gallery"   >
 <figure class="gallery__item"><a href="https://langasi.github.io/talis/media/posts/1/gallery/DSC_0019_resize.JPG" ><img src="https://langasi.github.io/talis/media/posts/1/gallery/DSC_0019_resize-thumbnail.JPG" alt="" width="240" height="240"></a>
@@ -98,6 +101,7 @@
 </figure>
 </div>
 <h2><a id="kt"></a>Kitos pastabos</h2>
+<address><a href="#content">grįžti viršun ↑</a></address>
 <p>Išeinant derėtų:</p>
 <ul>
 <li>Langus palikti uždarytus (pro pradarytus langus Talis bando lipti). Pravirą galima palikti tik virtuvės langą. </li>
